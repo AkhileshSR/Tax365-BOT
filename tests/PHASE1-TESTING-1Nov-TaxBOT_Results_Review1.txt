@@ -1,0 +1,1785 @@
+[01-11-2026 13:05] Aks Zuymaw: Give me a global tax complaints summary show total fillings filed and approved pending local review and overdue with percentages
+[01-11-2026 13:05] Tax360Bot: **Overdue Tax Filings**
+* Germany | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-DE-OPS
+* Belgium | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BE-OPS
+* Poland | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-PL-OPS
+* Norway | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-NO-OPS
+* South Africa | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-ZA-OPS
+* Egypt | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-EG-OPS
+* Turkey | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TR-OPS
+* United States | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-US-OPS
+* China | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-CN-OPS
+* Taiwan | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TW-OPS
+* Guatemala | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-GT-OPS
+* Colombia | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-CO-OPS
+* Brazil | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BR-OPS
+* Peru | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-PE-OPS
+* Ecuador | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-EC-OPS
+* Singapore | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-SG-OPS
+* Thailand | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TH-OPS
+* Indonesia | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-ID-OPS
+* Bangladesh | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BD-OPS
+* Myanmar | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-MM-OPS
+* United Kingdom | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-GB-OPS
+* Netherlands | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-NL-OPS
+* Italy | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-IT-OPS
+* Sweden | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-SE-OPS
+* Ireland | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-IE-OPS
+* Nigeria | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-NG-OPS
+* Saudi Arabia | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-SA-OPS
+* Austria | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-AT-OPS
+* Mexico | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-MX-OPS
+* South Korea | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-KR-OPS
+[01-11-2026 13:47] Aks Zuymaw: [13:09, 01/11/2026] Th3N3rdH3rd: List all overdue tax filings globally. Show country, legal entity, tax type, due date, and filing status.
+[13:10, 01/11/2026] Th3N3rdH3rd: Q3. Reg
+[01-11-2026 13:48] Aks Zuymaw: List all overdue tax filings globally. Show country, legal entity, tax type, due date, and filing status.
+[01-11-2026 13:48] Tax360Bot: **Overdue Tax Filings**
+* Germany | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-DE-OPS
+* Belgium | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BE-OPS
+* Poland | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-PL-OPS
+* Norway | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-NO-OPS
+* South Africa | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-ZA-OPS
+* Egypt | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-EG-OPS
+* Turkey | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TR-OPS
+* United States | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-US-OPS
+* China | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-CN-OPS
+* Taiwan | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TW-OPS
+* Guatemala | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-GT-OPS
+* Colombia | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-CO-OPS
+* Brazil | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BR-OPS
+* Peru | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-PE-OPS
+* Ecuador | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-EC-OPS
+* Singapore | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-SG-OPS
+* Thailand | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TH-OPS
+* Indonesia | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-ID-OPS
+* Bangladesh | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BD-OPS
+* Myanmar | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-MM-OPS
+* United Kingdom | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-GB-OPS
+* Netherlands | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-NL-OPS
+* Italy | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-IT-OPS
+* Sweden | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-SE-OPS
+* Ireland | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-IE-OPS
+* Nigeria | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-NG-OPS
+* Saudi Arabia | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-SA-OPS
+* Austria | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-AT-OPS
+* Mexico | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-MX-OPS
+* South Korea | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-KR-OPS
+[01-11-2026 13:48] Aks Zuymaw: Give me a tax compliance summary by region. Show total filings, overdue filings, pending reviews, and approved filings
+[01-11-2026 13:48] Tax360Bot: **Overdue Tax Filings**
+* Germany | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-DE-OPS
+* Belgium | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BE-OPS
+* Poland | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-PL-OPS
+* Norway | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-NO-OPS
+* South Africa | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-ZA-OPS
+* Egypt | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-EG-OPS
+* Turkey | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TR-OPS
+* United States | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-US-OPS
+* China | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-CN-OPS
+* Taiwan | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TW-OPS
+* Guatemala | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-GT-OPS
+* Colombia | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-CO-OPS
+* Brazil | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BR-OPS
+* Peru | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-PE-OPS
+* Ecuador | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-EC-OPS
+* Singapore | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-SG-OPS
+* Thailand | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-TH-OPS
+* Indonesia | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-ID-OPS
+* Bangladesh | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-BD-OPS
+* Myanmar | Corporate Income Tax | FY2025 | Due: 2026-10-15 | LE-MM-OPS
+* United Kingdom | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-GB-OPS
+* Netherlands | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-NL-OPS
+* Italy | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-IT-OPS
+* Sweden | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-SE-OPS
+* Ireland | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-IE-OPS
+* Nigeria | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-NG-OPS
+* Saudi Arabia | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-SA-OPS
+* Austria | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-AT-OPS
+* Mexico | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-MX-OPS
+* South Korea | Value Added Tax / Goods and Services Tax | 2026-09 | Due: 2026-10-20 | LE-KR-OPS
+[01-11-2026 13:49] Aks Zuymaw: Compare tax compliance across India, Brazil, Germany, and the United States. Show filing counts by status.
+[01-11-2026 13:49] Tax360Bot: **Compliance Status: United States**
+* **Tax:** Corporate Income Tax (FY2025)
+  * Filing Status: Overdue
+  * Due Date: 2026-10-15
+  * Submission Date: Not recorded
+  * Approval Date: Not recorded
+  * Proof Available in index: No
+  * Artifact: Not recorded
+* **Tax:** Value Added Tax / Goods and Services Tax (2026-09)
+  * Filing Status: Filed & Approved
+  * Due Date: 2026-10-20
+  * Submission Date: 2026-10-11
+  * Approval Date: 2026-10-24
+  * Proof Available in index: Yes
+  * Artifact: US_VAT_GST_2026-09_Receipt.pdf
+* **Tax:** Withholding Tax (2026-09)
+  * Filing Status: Pending Local Review
+  * Due Date: 2026-10-25
+  * Submission Date: 2026-10-21
+  * Approval Date: Not recorded
+  * Proof Available in index: Yes
+  * Artifact: US_WHT_2026-09_Submission_Acknowledgement.pdf
+[01-11-2026 13:49] Aks Zuymaw: Compare tax compliance across India, Brazil, Germany, and the United States. Show filing counts by status.
+[01-11-2026 13:49] Tax360Bot: **Compliance Status: United States**
+* **Tax:** Corporate Income Tax (FY2025)
+  * Filing Status: Overdue
+  * Due Date: 2026-10-15
+  * Submission Date: Not recorded
+  * Approval Date: Not recorded
+  * Proof Available in index: No
+  * Artifact: Not recorded
+* **Tax:** Value Added Tax / Goods and Services Tax (2026-09)
+  * Filing Status: Filed & Approved
+  * Due Date: 2026-10-20
+  * Submission Date: 2026-10-11
+  * Approval Date: 2026-10-24
+  * Proof Available in index: Yes
+  * Artifact: US_VAT_GST_2026-09_Receipt.pdf
+* **Tax:** Withholding Tax (2026-09)
+  * Filing Status: Pending Local Review
+  * Due Date: 2026-10-25
+  * Submission Date: 2026-10-21
+  * Approval Date: Not recorded
+  * Proof Available in index: Yes
+  * Artifact: US_WHT_2026-09_Submission_Acknowledgement.pdf
+[01-11-2026 13:49] Aks Zuymaw: Show all Corporate Income Tax (CIT) filings globally, grouped by country and filing status.
+[01-11-2026 13:49] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+[01-11-2026 13:50] Aks Zuymaw: Find all legal entities in Brazil. Show entity name, entity ID, registration number, tax identification number, and directors.
+[01-11-2026 13:50] Tax360Bot: **Entity Profile: Brazil**
+* **Legal Entity:** Global Agri-Food Brazil OPS Entity
+* **LE ID:** LE-BR-OPS
+* **LE Level:** Operating Subsidiary
+* **Status:** Active / Good Standing
+* **Tax ID:** BR-TAX-700380
+* **VAT/GST ID:** BR-VAT-800380
+* **Managing Directors:** Taylor Garcia, Drew Lopez
+* **Functional Currency:** BRL
+* **Parent:** Global Agri-Food Holdings B.V.
+
+* **Legal Entity:** Global Agri-Food Brazil SVC Entity
+* **LE ID:** LE-BR-SVC
+* **LE Level:** Services / Shared Services Entity
+* **Status:** Active / Good Standing
+* **Tax ID:** BR-TAX-700380
+* **VAT/GST ID:** BR-VAT-800380
+* **Managing Directors:** Taylor Garcia, Drew Lopez
+* **Functional Currency:** BRL
+* **Parent:** Global Agri-Food Holdings B.V.
+[01-11-2026 13:51] Aks Zuymaw: Give me the global tax audit and litigation summary. Show total cases, total financial exposure, and exposure by region.
+[01-11-2026 13:51] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+[01-11-2026 13:51] Aks Zuymaw: List the top 10 tax audits and litigations by financial exposure, in descending order. Include country, entity, case reference, disputed amount, audit stage, and phase.
+[01-11-2026 13:51] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+[01-11-2026 13:51] Aks Zuymaw: Show all tax audits and litigations in India, including case reference, tax authority, disputed amount, audit stage, current phase, and next action if recorded.
+[01-11-2026 13:51] Tax360Bot: **Tax Audits & Litigations: India**
+* TAX-DIS-00106 | Customs & Duties | 2,399,626.00 USD
+  * Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase 7: Appeal Evaluation
+  * Status: Open
+* TAX-DIS-00046 | Customs & Duties | 324,366.00 USD
+  * Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase 6: Post-Resolution & Enforcement
+  * Status: Open
+[01-11-2026 13:52] Aks Zuymaw: Identify tax audit and litigation cases with financial exposure above USD 1 million. Rank them by exposure and show country, entity, and current stage.
+[01-11-2026 13:52] Tax360Bot: **Tax Audits Above $1,000,000 USD**
+* **Taiwan – Permanent Establishment** (TAX-DIS-00089)
+  * Stage: Stage 2: Administrative Appeal (Internal Review Board)
+  * Phase: Phase 5: Resolution & Settlement
+  * Financial risk: $6,254,969.00 USD
+  * Case status: Open
+* **Ecuador – VAT Dispute** (TAX-DIS-00044)
+  * Stage: Stage 2: Administrative Appeal (Internal Review Board)
+  * Phase: Phase 7: Appeal Evaluation
+  * Financial risk: $6,248,524.00 USD
+  * Case status: Open
+* **South Korea – Customs & Duties** (TAX-DIS-00088)
+  * Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+  * Phase: Phase 2: Information Gathering & Defense Preparation
+  * Financial risk: $6,117,048.00 USD
+  * Case status: Open
+* **Paraguay – Corporate Income Tax** (TAX-DIS-00043)
+  * Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+  * Phase: Phase 4: Awaiting Decision
+  * Financial risk: $6,110,603.00 USD
+  * Case status: Open
+* **Japan – Withholding Tax** (TAX-DIS-00087)
+  * Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+  * Phase: Phase 6: Post-Resolution & Enforcement
+  * Financial risk: $5,979,127.00 USD
+  * Case status: Open
+* **Uruguay – Transfer Pricing** (TAX-DIS-00042)
+  * Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+  * Phase: Phase 1: Initiation & Notice
+  * Financial risk: $5,972,682.00 USD
+  * Case status: Open
+* **China – VAT Dispute** (TAX-DIS-00086)
+  * Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase: Phase 3: Formal Argument & Hearing
+  * Financial risk: $5,841,206.00 USD
+  * Case status: Open
+* **Peru – Permanent Establishment** (TAX-DIS-00041)
+  * Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase: Phase 5: Resolution & Settlement
+  * Financial risk: $5,834,761.00 USD
+  * Case status: Open
+* **Mexico – Corporate Income Tax** (TAX-DIS-00085)
+  * Stage: Stage 1: Administrative (Audit/Tax Authority)
+  * Phase: Phase 7: Appeal Evaluation
+  * Financial risk: $5,703,285.00 USD
+  * Case status: Open
+* **Chile – Customs & Duties** (TAX-DIS-00040)
+  * Stage: Stage 1: Administrative (Audit/Tax Authority)
+  * Phase: Phase 2: Information Gathering & Defense Preparation
+  * Financial risk: $5,696,840.00 USD
+  * Case status: Open
+* **Canada – Transfer Pricing** (TAX-DIS-00084)
+  * Stage: Stage 2: Administrative Appeal (Internal Review Board)
+  * Phase: Phase 4: Awaiting Decision
+  * Financial risk: $5,565,364.00 USD
+  * Case status: Open
+* **Argentina – Withholding Tax** (TAX-DIS-00039)
+  * Stage: Stage 2: Administrative Appeal (Internal Review Board)
+  * Phase: Phase 6: Post-Resolution & Enforcement
+  * Financial risk: $5,558,919.00 USD
+  * Case status: Open
+* **United States – Permanent Establishment** (TAX-DIS-00083)
+  * Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+  * Phase: Phase 1: Initiation & Notice
+  * Financial risk: $5,427,443.00 USD
+  * Case status: Open
+* **Brazil – VAT Dispute** (TAX-DIS-00038)
+  * Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+  * Phase: Phase 3: Formal Argument & Hearing
+  * Financial risk: $5,420,998.00 USD
+  * Case status: Open
+* **Austria – Customs & Duties** (TAX-DIS-00082)
+  * Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+  * Phase: Phase 5: Resolution & Settlement
+  * Financial risk: $5,289,522.00 USD
+  * Case status: Open
+* **Dominican Republic – Corporate Income Tax** (TAX-DIS-00037)
+  * Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+  * Phase: Phase 7: Appeal Evaluation
+  * Financial risk: $5,283,077.00 USD
+  * Case status: Open
+* **Portugal – Withholding Tax** (TAX-DIS-00081)
+  * Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase: Phase 2: Information Gathering & Defense Preparation
+  * Financial risk: $5,151,601.00 USD
+[01-11-2026 13:52] Tax360Bot: * Case status: Resolved - Monitoring
+* **Venezuela – Transfer Pricing** (TAX-DIS-00036)
+  * Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase: Phase 4: Awaiting Decision
+  * Financial risk: $5,145,156.00 USD
+  * Case status: Resolved - Monitoring
+* **Turkey – VAT Dispute** (TAX-DIS-00080)
+  * Stage: Stage 1: Administrative (Audit/Tax Authority)
+  * Phase: Phase 6: Post-Resolution & Enforcement
+  * Financial risk: $5,013,680.00 USD
+  * Case status: Open
+* **Colombia – Permanent Establishment** (TAX-DIS-00035)
+  * Stage: Stage 1: Administrative (Audit/Tax Authority)
+  * Phase: Phase 1: Initiation & Notice
+  * Financial risk: $5,007,235.00 USD
+  * Case status: Open
+* **Saudi Arabia – Corporate Income Tax** (TAX-DIS-00079)
+  * Stage: Stage 2: Administrative Appeal (Internal Review Board)
+  * Phase: Phase 3: Formal Argument & Hearing
+  * Financial risk: $4,875,759.00 USD
+  * Case status: Open
+* **Panama – Customs & Duties** (TAX-DIS-00034)
+  * Stage: Stage 2: Administrative Appeal (Internal Review Board)
+  * Phase: Phase 5: Resolution & Settlement
+  * Financial risk: $4,869,314.00 USD
+  * Case status: Open
+* **United Arab Emirates – Transfer Pricing** (TAX-DIS-00078)
+  * Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+  * Phase: Phase 7: Appeal Evaluation
+  * Financial risk: $4,737,838.00 USD
+  * Case status: Open
+* **Costa Rica – Withholding Tax** (TAX-DIS-00033)
+  * Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+  * Phase: Phase 2: Information Gathering & Defense Preparation
+  * Financial risk: $4,731,393.00 USD
+  * Case status: Open
+* **Egypt – Permanent Establishment** (TAX-DIS-00077)
+  * Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+  * Phase: Phase 4: Awaiting Decision
+  * Financial risk: $4,599,917.00 USD
+  * Case status: Open
+* **Guatemala – VAT Dispute** (TAX-DIS-00032)
+  * Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+  * Phase: Phase 6: Post-Resolution & Enforcement
+  * Financial risk: $4,593,472.00 USD
+  * Case status: Open
+* **Nigeria – Customs & Duties** (TAX-DIS-00076)
+  * Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase: Phase 1: Initiation & Notice
+  * Financial risk: $4,461,996.00 USD
+  * Case status: Open
+* **Mongolia – Corporate Income Tax** (TAX-DIS-00031)
+  * Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+  * Phase: Phase 3: Formal Argument & Hearing
+  * Financial risk: $4,455,551.00 USD
+  * Case status: Open
+* **Laos – Transfer Pricing** (TAX-DIS-00120)
+  * Stage: Stage 1: Administrative (Audit/Tax Authority)
+  * Phase: Phase 7: Appeal Evaluation
+  * Financial risk: $4,330,520.00 USD
+  * Case status: Open
+* **Kenya – Withholding Tax** (TAX-DIS-00075)
+  * Stage: Stage 1: Administrative (Audit/Tax Authority)
+  * Phase: Phase 5: Resolution & Settlement
+  * Financial risk: $4,324,075.00 USD
+  * Case status: Open
+[01-11-2026 13:53] Aks Zuymaw: Explain all five tax audit and litigation stages configured in Tax365. Give the exact stage names and descriptions.
+[01-11-2026 13:53] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+[01-11-2026 13:53] Aks Zuymaw: List all seven audit lifecycle phases in Tax365 in the correct sequence, with their exact names.
+[01-11-2026 13:53] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+[01-11-2026 13:54] Aks Zuymaw: Find the CIT filing proof or receipt for Brazil. Return the exact artifact filename and provide the PDF if it is available.
+[01-11-2026 13:54] Tax360Bot: **Compliance Status: Brazil**
+* **Tax:** Corporate Income Tax (FY2025)
+  * Filing Status: Overdue
+  * Due Date: 2026-10-15
+  * Submission Date: Not recorded
+  * Approval Date: Not recorded
+  * Proof Available in index: No
+  * Artifact: Not recorded
+[01-11-2026 14:12] Aks Zuymaw: THANK YOU FOR YOUR VERSION 1 RESPONSE!!
+[01-11-2026 14:12] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:12] Aks Zuymaw: Give me a global tax compliance summary showing total filings, Filed & Approved, Pending Local Review, and Overdue, with percentages.
+[01-11-2026 14:12] Tax360Bot: GLOBAL TAX COMPLIANCE SUMMARY
+Countries in implementation master: 60
+Legal entity records: 120
+Tax compliance records: 180
+Tax audit / litigation records: 120
+
+FILING STATUS BREAKDOWN
+Filed & Approved: 60 (33.3%)
+Pending Local Review: 60 (33.3%)
+Overdue: 60 (33.3%)
+Note: Percentages are calculated against all tax compliance records.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:12] Aks Zuymaw: Give me a tax compliance summary by region. Show total filings, overdue filings, pending reviews, and approved filings.
+[01-11-2026 14:12] Tax360Bot: REGIONAL TAX COMPLIANCE SUMMARY
+
+EMEA
+Total filings: 66
+Filed & Approved: 22 (33.3%)
+Pending Local Review: 22 (33.3%)
+Overdue: 22 (33.3%)
+
+NAM
+Total filings: 9
+Filed & Approved: 3 (33.3%)
+Pending Local Review: 3 (33.3%)
+Overdue: 3 (33.3%)
+
+NASIA
+Total filings: 18
+Filed & Approved: 6 (33.3%)
+Pending Local Review: 6 (33.3%)
+Overdue: 6 (33.3%)
+
+NLAM
+Total filings: 18
+Filed & Approved: 6 (33.3%)
+Pending Local Review: 6 (33.3%)
+Overdue: 6 (33.3%)
+
+SLAM
+Total filings: 24
+Filed & Approved: 8 (33.3%)
+Pending Local Review: 8 (33.3%)
+Overdue: 8 (33.3%)
+
+SSEA
+Total filings: 45
+Filed & Approved: 15 (33.3%)
+Pending Local Review: 15 (33.3%)
+Overdue: 15 (33.3%)
+
+GLOBAL TOTAL
+Total filings: 180
+Filed & Approved: 60
+Pending Local Review: 60
+Overdue: 60
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:12] Aks Zuymaw: Compare tax compliance across India, Brazil, Germany, and the United States. Show filing counts by status.
+[01-11-2026 14:12] Tax360Bot: COUNTRY TAX COMPLIANCE COMPARISON
+
+India
+Total filings: 3
+Filed & Approved: 1
+Pending Local Review: 1
+Overdue: 1
+
+Brazil
+Total filings: 3
+Filed & Approved: 1
+Pending Local Review: 1
+Overdue: 1
+
+Germany
+Total filings: 3
+Filed & Approved: 1
+Pending Local Review: 1
+Overdue: 1
+
+United States
+Total filings: 3
+Filed & Approved: 1
+Pending Local Review: 1
+Overdue: 1
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:13] Aks Zuymaw: Give me the global tax audit and litigation summary. Show total cases, total financial exposure, and exposure by region.
+[01-11-2026 14:13] Tax360Bot: GLOBAL TAX AUDIT & LITIGATION SUMMARY
+Total cases: 120
+Total financial risk exposure: 359,506,460.00 USD
+
+EXPOSURE BY REGION
+EMEA: 44 cases | 123,363,746.00 USD (34.3%)
+NAM: 6 cases | 27,166,404.00 USD (7.6%)
+NASIA: 12 cases | 49,380,542.00 USD (13.7%)
+NLAM: 12 cases | 34,510,854.00 USD (9.6%)
+SLAM: 16 cases | 55,261,624.00 USD (15.4%)
+SSEA: 30 cases | 69,823,290.00 USD (19.4%)
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:13] Aks Zuymaw: List the top 10 tax audits and litigations by financial exposure, in descending order. Include country, entity, case reference, disputed amount, audit stage, and phase.
+[01-11-2026 14:13] Tax360Bot: TOP 10 TAX AUDIT / LITIGATION CASES BY USD EXPOSURE
+
+1. Taiwan | Permanent Establishment | TAX-DIS-00089
+Legal entity: Global Agri-Food Taiwan OPS Entity
+Entity ID: LE-TW-OPS
+Tax authority: Taiwan Tax Authority
+Financial risk: 6,254,969.00 USD
+Stage: Stage 2: Administrative Appeal (Internal Review Board)
+Phase: Phase 5: Resolution & Settlement
+Case status: Open
+Next action: Evaluate appeal options
+
+2. Ecuador | VAT Dispute | TAX-DIS-00044
+Legal entity: Global Agri-Food Ecuador OPS Entity
+Entity ID: LE-EC-OPS
+Tax authority: Ecuador Tax Authority
+Financial risk: 6,248,524.00 USD
+Stage: Stage 2: Administrative Appeal (Internal Review Board)
+Phase: Phase 7: Appeal Evaluation
+Case status: Open
+Next action: Evaluate appeal options
+
+3. South Korea | Customs & Duties | TAX-DIS-00088
+Legal entity: Global Agri-Food South Korea OPS Entity
+Entity ID: LE-KR-OPS
+Tax authority: South Korea Tax Authority
+Financial risk: 6,117,048.00 USD
+Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+Phase: Phase 2: Information Gathering & Defense Preparation
+Case status: Open
+Next action: Review settlement position
+
+4. Paraguay | Corporate Income Tax | TAX-DIS-00043
+Legal entity: Global Agri-Food Paraguay OPS Entity
+Entity ID: LE-PY-OPS
+Tax authority: Paraguay Tax Authority
+Financial risk: 6,110,603.00 USD
+Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+Phase: Phase 4: Awaiting Decision
+Case status: Open
+Next action: Review settlement position
+
+5. Japan | Withholding Tax | TAX-DIS-00087
+Legal entity: Global Agri-Food Japan OPS Entity
+Entity ID: LE-JP-OPS
+Tax authority: Japan Tax Authority
+Financial risk: 5,979,127.00 USD
+Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+Phase: Phase 6: Post-Resolution & Enforcement
+Case status: Open
+Next action: Prepare hearing bundle
+
+6. Uruguay | Transfer Pricing | TAX-DIS-00042
+Legal entity: Global Agri-Food Uruguay OPS Entity
+Entity ID: LE-UY-OPS
+Tax authority: Uruguay Tax Authority
+Financial risk: 5,972,682.00 USD
+Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+Phase: Phase 1: Initiation & Notice
+Case status: Open
+Next action: Prepare hearing bundle
+
+7. China | VAT Dispute | TAX-DIS-00086
+Legal entity: Global Agri-Food China OPS Entity
+Entity ID: LE-CN-OPS
+Tax authority: China Tax Authority
+Financial risk: 5,841,206.00 USD
+Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Phase: Phase 3: Formal Argument & Hearing
+Case status: Open
+Next action: Reconcile supporting schedules
+
+8. Peru | Permanent Establishment | TAX-DIS-00041
+Legal entity: Global Agri-Food Peru OPS Entity
+Entity ID: LE-PE-OPS
+Tax authority: Peru Tax Authority
+Financial risk: 5,834,761.00 USD
+Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Phase: Phase 5: Resolution & Settlement
+Case status: Open
+Next action: Reconcile supporting schedules
+
+9. Mexico | Corporate Income Tax | TAX-DIS-00085
+Legal entity: Global Agri-Food Mexico OPS Entity
+Entity ID: LE-MX-OPS
+Tax authority: Mexico Tax Authority
+Financial risk: 5,703,285.00 USD
+Stage: Stage 1: Administrative (Audit/Tax Authority)
+Phase: Phase 7: Appeal Evaluation
+Case status: Open
+Next action: Submit technical response
+
+10. Chile | Customs & Duties | TAX-DIS-00040
+Legal entity: Global Agri-Food Chile OPS Entity
+Entity ID: LE-CL-OPS
+Tax authority: Chile Tax Authority
+Financial risk: 5,696,840.00 USD
+Stage: Stage 1: Administrative (Audit/Tax Authority)
+Phase: Phase 2: Information Gathering & Defense Preparation
+Case status: Open
+Next action: Submit technical response
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:16] Aks Zuymaw: THANKS FOR YOUR VERSION 2 RESPONSE!!
+[01-11-2026 14:16] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:16] Aks Zuymaw: List all overdue tax filings globally. Show country, legal entity name, legal entity ID, tax type, due date, and filing status.
+[01-11-2026 14:16] Tax360Bot: OVERDUE TAX FILINGS — 30 record(s) shown
+
+Bangladesh | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Bangladesh OPS Entity
+Entity ID: LE-BD-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Belgium | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Belgium OPS Entity
+Entity ID: LE-BE-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Brazil | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Brazil OPS Entity
+Entity ID: LE-BR-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+China | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food China OPS Entity
+Entity ID: LE-CN-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Colombia | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Colombia OPS Entity
+Entity ID: LE-CO-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Ecuador | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Ecuador OPS Entity
+Entity ID: LE-EC-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Egypt | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Egypt OPS Entity
+Entity ID: LE-EG-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Germany | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Germany OPS Entity
+Entity ID: LE-DE-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Guatemala | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Guatemala OPS Entity
+Entity ID: LE-GT-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Indonesia | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Indonesia OPS Entity
+Entity ID: LE-ID-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Myanmar | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Myanmar OPS Entity
+Entity ID: LE-MM-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Norway | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Norway OPS Entity
+Entity ID: LE-NO-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Peru | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Peru OPS Entity
+Entity ID: LE-PE-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Poland | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Poland OPS Entity
+Entity ID: LE-PL-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Singapore | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Singapore OPS Entity
+Entity ID: LE-SG-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+South Africa | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food South Africa OPS Entity
+Entity ID: LE-ZA-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Taiwan | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Taiwan OPS Entity
+Entity ID: LE-TW-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Thailand | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Thailand OPS Entity
+Entity ID: LE-TH-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Turkey | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Turkey OPS Entity
+Entity ID: LE-TR-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+United States | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food United States OPS Entity
+Entity ID: LE-US-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Austria | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Austria OPS Entity
+Entity ID: LE-AT-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Cambodia | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Cambodia OPS Entity
+Entity ID: LE-KH-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Chile | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Chile OPS Entity
+Entity ID: LE-CL-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Dominican Republic | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Dominican Republic OPS Entity
+Entity ID: LE-DO-OPS
+Due date: 2026-10-20
+[01-11-2026 14:16] Tax360Bot: Filing status: Overdue
+
+India | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food India OPS Entity
+Entity ID: LE-IN-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Ireland | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Ireland OPS Entity
+Entity ID: LE-IE-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Italy | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Italy OPS Entity
+Entity ID: LE-IT-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Malaysia | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Malaysia OPS Entity
+Entity ID: LE-MY-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Mexico | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Mexico OPS Entity
+Entity ID: LE-MX-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Mongolia | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Mongolia OPS Entity
+Entity ID: LE-MN-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:16] Aks Zuymaw: Show all Corporate Income Tax (CIT) filings globally, grouped by country and filing status.
+[01-11-2026 14:16] Tax360Bot: GLOBAL CORPORATE INCOME TAX FILINGS
+Total CIT records: 60
+
+Argentina — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Australia — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Austria — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Bangladesh — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Belgium — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Bolivia — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Brazil — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Cambodia — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Canada — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Chile — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+China — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Colombia — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Costa Rica — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Denmark — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Dominican Republic — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Ecuador — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Egypt — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+France — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Germany — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Guatemala — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Hong Kong — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+India — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Indonesia — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Ireland — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Italy — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Japan — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Kenya — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Laos — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Malaysia — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Mexico — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Mongolia — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Myanmar — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Netherlands — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+New Zealand — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Nigeria — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Norway — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Pakistan — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Panama — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Paraguay — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Peru — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Philippines — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Poland — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Portugal — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Saudi Arabia — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Singapore — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+South Africa — 1 filing(s)
+[01-11-2026 14:16] Tax360Bot: Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+South Korea — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Spain — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Sri Lanka — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Sweden — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+Switzerland — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Taiwan — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Thailand — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Turkey — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+United Arab Emirates — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+United Kingdom — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 1
+  Overdue: 0
+
+United States — 1 filing(s)
+  Filed & Approved: 0
+  Pending Local Review: 0
+  Overdue: 1
+
+Uruguay — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Venezuela — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+Vietnam — 1 filing(s)
+  Filed & Approved: 1
+  Pending Local Review: 0
+  Overdue: 0
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:16] Aks Zuymaw: Find all legal entities in Brazil. Show entity name, entity ID, registration number, tax identification number, and directors.
+[01-11-2026 14:16] Tax360Bot: LEGAL ENTITY REGISTER — Brazil
+Entity records: 2
+
+Global Agri-Food Brazil OPS Entity
+Entity ID: LE-BR-OPS
+Entity level: Operating Subsidiary
+Entity status: Active / Good Standing
+Company registration ID: BR-CR-100380
+Tax ID: BR-TAX-700380
+VAT/GST ID: BR-VAT-800380
+Managing directors: Taylor Garcia, Drew Lopez
+Functional currency: BRL
+Direct parent: Global Agri-Food Holdings B.V.
+Registered address: 138 Corporate Park, Brazil
+Last verified: 2026-10-15
+
+Global Agri-Food Brazil SVC Entity
+Entity ID: LE-BR-SVC
+Entity level: Services / Shared Services Entity
+Entity status: Active / Good Standing
+Company registration ID: BR-CR-100380
+Tax ID: BR-TAX-700380
+VAT/GST ID: BR-VAT-800380
+Managing directors: Taylor Garcia, Drew Lopez
+Functional currency: BRL
+Direct parent: Global Agri-Food Holdings B.V.
+Registered address: 138 Corporate Park, Brazil
+Last verified: 2026-10-15
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:17] Aks Zuymaw: Show all tax audits and litigations in India, including case reference, tax authority, legal entity, disputed amount, audit stage, current phase, and next action if recorded.
+[01-11-2026 14:17] Tax360Bot: LEGAL ENTITY REGISTER — India
+Entity records: 2
+
+Global Agri-Food India OPS Entity
+Entity ID: LE-IN-OPS
+Entity level: Operating Subsidiary
+Entity status: Active / Good Standing
+Company registration ID: IN-CR-100460
+Tax ID: IN-TAX-700460
+VAT/GST ID: IN-VAT-800460
+Managing directors: Morgan Chen, Jamie Patel
+Functional currency: SGD
+Direct parent: Global Agri-Food Holdings B.V.
+Registered address: 146 Corporate Park, India
+Last verified: 2026-10-15
+
+Global Agri-Food India SVC Entity
+Entity ID: LE-IN-SVC
+Entity level: Services / Shared Services Entity
+Entity status: Active / Good Standing
+Company registration ID: IN-CR-100460
+Tax ID: IN-TAX-700460
+VAT/GST ID: IN-VAT-800460
+Managing directors: Morgan Chen, Jamie Patel
+Functional currency: SGD
+Direct parent: Global Agri-Food Holdings B.V.
+Registered address: 146 Corporate Park, India
+Last verified: 2026-10-15
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:17] Aks Zuymaw: Identify all tax audit and litigation cases with financial exposure above USD 1 million. Rank them by exposure and show country, entity, and current stage.
+[01-11-2026 14:17] Tax360Bot: TAX AUDIT / LITIGATION CASES ABOVE 1,000,000.00 USD
+Records returned: 10
+
+Taiwan | Permanent Establishment | TAX-DIS-00089
+Legal entity: Global Agri-Food Taiwan OPS Entity
+Entity ID: LE-TW-OPS
+Tax authority: Taiwan Tax Authority
+Financial risk: 6,254,969.00 USD
+Stage: Stage 2: Administrative Appeal (Internal Review Board)
+Phase: Phase 5: Resolution & Settlement
+Case status: Open
+Next action: Evaluate appeal options
+
+Ecuador | VAT Dispute | TAX-DIS-00044
+Legal entity: Global Agri-Food Ecuador OPS Entity
+Entity ID: LE-EC-OPS
+Tax authority: Ecuador Tax Authority
+Financial risk: 6,248,524.00 USD
+Stage: Stage 2: Administrative Appeal (Internal Review Board)
+Phase: Phase 7: Appeal Evaluation
+Case status: Open
+Next action: Evaluate appeal options
+
+South Korea | Customs & Duties | TAX-DIS-00088
+Legal entity: Global Agri-Food South Korea OPS Entity
+Entity ID: LE-KR-OPS
+Tax authority: South Korea Tax Authority
+Financial risk: 6,117,048.00 USD
+Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+Phase: Phase 2: Information Gathering & Defense Preparation
+Case status: Open
+Next action: Review settlement position
+
+Paraguay | Corporate Income Tax | TAX-DIS-00043
+Legal entity: Global Agri-Food Paraguay OPS Entity
+Entity ID: LE-PY-OPS
+Tax authority: Paraguay Tax Authority
+Financial risk: 6,110,603.00 USD
+Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+Phase: Phase 4: Awaiting Decision
+Case status: Open
+Next action: Review settlement position
+
+Japan | Withholding Tax | TAX-DIS-00087
+Legal entity: Global Agri-Food Japan OPS Entity
+Entity ID: LE-JP-OPS
+Tax authority: Japan Tax Authority
+Financial risk: 5,979,127.00 USD
+Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+Phase: Phase 6: Post-Resolution & Enforcement
+Case status: Open
+Next action: Prepare hearing bundle
+
+Uruguay | Transfer Pricing | TAX-DIS-00042
+Legal entity: Global Agri-Food Uruguay OPS Entity
+Entity ID: LE-UY-OPS
+Tax authority: Uruguay Tax Authority
+Financial risk: 5,972,682.00 USD
+Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+Phase: Phase 1: Initiation & Notice
+Case status: Open
+Next action: Prepare hearing bundle
+
+China | VAT Dispute | TAX-DIS-00086
+Legal entity: Global Agri-Food China OPS Entity
+Entity ID: LE-CN-OPS
+Tax authority: China Tax Authority
+Financial risk: 5,841,206.00 USD
+Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Phase: Phase 3: Formal Argument & Hearing
+Case status: Open
+Next action: Reconcile supporting schedules
+
+Peru | Permanent Establishment | TAX-DIS-00041
+Legal entity: Global Agri-Food Peru OPS Entity
+Entity ID: LE-PE-OPS
+Tax authority: Peru Tax Authority
+Financial risk: 5,834,761.00 USD
+Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Phase: Phase 5: Resolution & Settlement
+Case status: Open
+Next action: Reconcile supporting schedules
+
+Mexico | Corporate Income Tax | TAX-DIS-00085
+Legal entity: Global Agri-Food Mexico OPS Entity
+Entity ID: LE-MX-OPS
+Tax authority: Mexico Tax Authority
+Financial risk: 5,703,285.00 USD
+Stage: Stage 1: Administrative (Audit/Tax Authority)
+Phase: Phase 7: Appeal Evaluation
+Case status: Open
+Next action: Submit technical response
+
+Chile | Customs & Duties | TAX-DIS-00040
+Legal entity: Global Agri-Food Chile OPS Entity
+Entity ID: LE-CL-OPS
+Tax authority: Chile Tax Authority
+Financial risk: 5,696,840.00 USD
+Stage: Stage 1: Administrative (Audit/Tax Authority)
+Phase: Phase 2: Information Gathering & Defense Preparation
+Case status: Open
+Next action: Submit technical response
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:17] Aks Zuymaw: Explain all five tax audit and litigation stages configured in Tax365. Give the exact stage names and descriptions.
+[01-11-2026 14:17] Tax360Bot: TAX AUDIT & LITIGATION STAGES
+1. Stage 1: Administrative (Audit/Tax Authority)
+2. Stage 2: Administrative Appeal (Internal Review Board)
+3. Stage 3: Lower Judicial (First-Tier Specialized Court)
+4. Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+5. Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:17] Tax360Bot: TAX AUDIT LIFECYCLE PHASES
+1. Phase 1: Initiation & Notice
+2. Phase 2: Information Gathering & Defense Preparation
+3. Phase 3: Formal Argument & Hearing
+4. Phase 4: Awaiting Decision
+5. Phase 5: Resolution & Settlement
+6. Phase 6: Post-Resolution & Enforcement
+7. Phase 7: Appeal Evaluation
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:17] Aks Zuymaw: List all seven audit lifecycle phases in Tax365 in the correct sequence, with their exact names.
+[01-11-2026 14:17] Aks Zuymaw: Find the CIT filing proof or receipt for Brazil. Return the exact artifact filename and provide the PDF if it is available.
+[01-11-2026 14:17] Tax360Bot: COMPLIANCE EVIDENCE CHECK — Brazil\n\nCorporate Income Tax | FY2025\nEntity ID: LE-BR-OPS\nFiling ID: FIL-BR-CIT-038\nFiling status: Overdue\nProof available in compliance register: No\nArtifact filename: Not recorded\nNo matching artifact-index record was found; no PDF has been delivered.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:25] Aks Zuymaw: THANK YOU FOR YOUR VERSION 3 RESPONSE!!
+[01-11-2026 14:25] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:25] Aks Zuymaw: List all overdue tax filings globally. Show country, legal entity name, legal entity ID, tax type, due date, and filing status.
+[01-11-2026 14:25] Tax360Bot: OVERDUE TAX FILINGS
+Total overdue records: 60
+Records displayed: 60 of 60
+
+
+Bangladesh | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Bangladesh OPS Entity
+Entity ID: LE-BD-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Belgium | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Belgium OPS Entity
+Entity ID: LE-BE-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Brazil | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Brazil OPS Entity
+Entity ID: LE-BR-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+China | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food China OPS Entity
+Entity ID: LE-CN-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Colombia | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Colombia OPS Entity
+Entity ID: LE-CO-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Ecuador | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Ecuador OPS Entity
+Entity ID: LE-EC-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Egypt | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Egypt OPS Entity
+Entity ID: LE-EG-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Germany | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Germany OPS Entity
+Entity ID: LE-DE-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Guatemala | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Guatemala OPS Entity
+Entity ID: LE-GT-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Indonesia | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Indonesia OPS Entity
+Entity ID: LE-ID-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Myanmar | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Myanmar OPS Entity
+Entity ID: LE-MM-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Norway | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Norway OPS Entity
+Entity ID: LE-NO-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Peru | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Peru OPS Entity
+Entity ID: LE-PE-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Poland | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Poland OPS Entity
+Entity ID: LE-PL-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Singapore | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Singapore OPS Entity
+Entity ID: LE-SG-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+South Africa | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food South Africa OPS Entity
+Entity ID: LE-ZA-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Taiwan | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Taiwan OPS Entity
+Entity ID: LE-TW-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Thailand | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Thailand OPS Entity
+Entity ID: LE-TH-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Turkey | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food Turkey OPS Entity
+Entity ID: LE-TR-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+United States | Corporate Income Tax | FY2025
+Legal entity: Global Agri-Food United States OPS Entity
+Entity ID: LE-US-OPS
+Due date: 2026-10-15
+Filing status: Overdue
+
+Austria | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Austria OPS Entity
+Entity ID: LE-AT-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Cambodia | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Cambodia OPS Entity
+Entity ID: LE-KH-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Chile | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Chile OPS Entity
+Entity ID: LE-CL-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Dominican Republic | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Dominican Republic OPS Entity
+Entity ID: LE-DO-OPS
+[01-11-2026 14:25] Tax360Bot: Due date: 2026-10-20
+Filing status: Overdue
+
+India | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food India OPS Entity
+Entity ID: LE-IN-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Ireland | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Ireland OPS Entity
+Entity ID: LE-IE-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Italy | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Italy OPS Entity
+Entity ID: LE-IT-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Malaysia | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Malaysia OPS Entity
+Entity ID: LE-MY-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Mexico | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Mexico OPS Entity
+Entity ID: LE-MX-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Mongolia | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Mongolia OPS Entity
+Entity ID: LE-MN-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Netherlands | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Netherlands OPS Entity
+Entity ID: LE-NL-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+New Zealand | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food New Zealand OPS Entity
+Entity ID: LE-NZ-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Nigeria | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Nigeria OPS Entity
+Entity ID: LE-NG-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Pakistan | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Pakistan OPS Entity
+Entity ID: LE-PK-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Panama | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Panama OPS Entity
+Entity ID: LE-PA-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Paraguay | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Paraguay OPS Entity
+Entity ID: LE-PY-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Saudi Arabia | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Saudi Arabia OPS Entity
+Entity ID: LE-SA-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+South Korea | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food South Korea OPS Entity
+Entity ID: LE-KR-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Sweden | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food Sweden OPS Entity
+Entity ID: LE-SE-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+United Kingdom | Value Added Tax / Goods and Services Tax | 2026-09
+Legal entity: Global Agri-Food United Kingdom OPS Entity
+Entity ID: LE-GB-OPS
+Due date: 2026-10-20
+Filing status: Overdue
+
+Argentina | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Argentina OPS Entity
+Entity ID: LE-AR-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Australia | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Australia OPS Entity
+Entity ID: LE-AU-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Bolivia | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Bolivia OPS Entity
+Entity ID: LE-BO-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Canada | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Canada OPS Entity
+Entity ID: LE-CA-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Costa Rica | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Costa Rica OPS Entity
+Entity ID: LE-CR-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Denmark | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Denmark OPS Entity
+Entity ID: LE-DK-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+France | Withholding Tax | 2026-09
+[01-11-2026 14:25] Tax360Bot: Legal entity: Global Agri-Food France OPS Entity
+Entity ID: LE-FR-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Hong Kong | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Hong Kong OPS Entity
+Entity ID: LE-HK-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Japan | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Japan OPS Entity
+Entity ID: LE-JP-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Kenya | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Kenya OPS Entity
+Entity ID: LE-KE-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Laos | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Laos OPS Entity
+Entity ID: LE-LA-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Philippines | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Philippines OPS Entity
+Entity ID: LE-PH-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Portugal | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Portugal OPS Entity
+Entity ID: LE-PT-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Spain | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Spain OPS Entity
+Entity ID: LE-ES-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Sri Lanka | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Sri Lanka OPS Entity
+Entity ID: LE-LK-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Switzerland | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Switzerland OPS Entity
+Entity ID: LE-CH-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+United Arab Emirates | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food United Arab Emirates OPS Entity
+Entity ID: LE-AE-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Uruguay | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Uruguay OPS Entity
+Entity ID: LE-UY-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Venezuela | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Venezuela OPS Entity
+Entity ID: LE-VE-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+Vietnam | Withholding Tax | 2026-09
+Legal entity: Global Agri-Food Vietnam OPS Entity
+Entity ID: LE-VN-OPS
+Due date: 2026-10-25
+Filing status: Overdue
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:25] Aks Zuymaw: Show all tax audits and litigations in India, including case reference, tax authority, legal entity, disputed amount, audit stage, current phase, and next action if recorded.
+[01-11-2026 14:25] Tax360Bot: TAX AUDITS & LITIGATIONS — India
+Case records: 2
+
+TAX-DIS-00106 | Customs & Duties
+Legal entity: Global Agri-Food India OPS Entity
+Entity ID: LE-IN-OPS
+Tax authority: India Tax Authority
+Financial risk: 2,399,626.00 USD
+Audit stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Current phase: Phase 7: Appeal Evaluation
+Case status: Open
+Response due date: 2026-10-28
+Next milestone: 2027-03-01
+Next action: Reconcile supporting schedules
+
+TAX-DIS-00046 | Customs & Duties
+Legal entity: Global Agri-Food India OPS Entity
+Entity ID: LE-IN-OPS
+Tax authority: India Tax Authority
+Financial risk: 324,366.00 USD
+Audit stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Current phase: Phase 6: Post-Resolution & Enforcement
+Case status: Open
+Response due date: 2026-12-07
+Next milestone: 2026-12-31
+Next action: Reconcile supporting schedules
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:25] Aks Zuymaw: Identify all tax audit and litigation cases with financial exposure above USD 1 million. Rank them by exposure and show country, entity, and current stage.
+[01-11-2026 14:25] Tax360Bot: TAX AUDIT / LITIGATION CASES ABOVE 1,000,000.00 USD
+Total matching cases: 103
+Records displayed: 10 of 103
+Showing the highest-exposure cases first; additional qualifying cases are not displayed.
+
+Taiwan | Permanent Establishment | TAX-DIS-00089
+Legal entity: Global Agri-Food Taiwan OPS Entity
+Entity ID: LE-TW-OPS
+Tax authority: Taiwan Tax Authority
+Financial risk: 6,254,969.00 USD
+Stage: Stage 2: Administrative Appeal (Internal Review Board)
+Phase: Phase 5: Resolution & Settlement
+Case status: Open
+Next action: Evaluate appeal options
+
+Ecuador | VAT Dispute | TAX-DIS-00044
+Legal entity: Global Agri-Food Ecuador OPS Entity
+Entity ID: LE-EC-OPS
+Tax authority: Ecuador Tax Authority
+Financial risk: 6,248,524.00 USD
+Stage: Stage 2: Administrative Appeal (Internal Review Board)
+Phase: Phase 7: Appeal Evaluation
+Case status: Open
+Next action: Evaluate appeal options
+
+South Korea | Customs & Duties | TAX-DIS-00088
+Legal entity: Global Agri-Food South Korea OPS Entity
+Entity ID: LE-KR-OPS
+Tax authority: South Korea Tax Authority
+Financial risk: 6,117,048.00 USD
+Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+Phase: Phase 2: Information Gathering & Defense Preparation
+Case status: Open
+Next action: Review settlement position
+
+Paraguay | Corporate Income Tax | TAX-DIS-00043
+Legal entity: Global Agri-Food Paraguay OPS Entity
+Entity ID: LE-PY-OPS
+Tax authority: Paraguay Tax Authority
+Financial risk: 6,110,603.00 USD
+Stage: Stage 3: Lower Judicial (First-Tier Specialized Court)
+Phase: Phase 4: Awaiting Decision
+Case status: Open
+Next action: Review settlement position
+
+Japan | Withholding Tax | TAX-DIS-00087
+Legal entity: Global Agri-Food Japan OPS Entity
+Entity ID: LE-JP-OPS
+Tax authority: Japan Tax Authority
+Financial risk: 5,979,127.00 USD
+Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+Phase: Phase 6: Post-Resolution & Enforcement
+Case status: Open
+Next action: Prepare hearing bundle
+
+Uruguay | Transfer Pricing | TAX-DIS-00042
+Legal entity: Global Agri-Food Uruguay OPS Entity
+Entity ID: LE-UY-OPS
+Tax authority: Uruguay Tax Authority
+Financial risk: 5,972,682.00 USD
+Stage: Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+Phase: Phase 1: Initiation & Notice
+Case status: Open
+Next action: Prepare hearing bundle
+
+China | VAT Dispute | TAX-DIS-00086
+Legal entity: Global Agri-Food China OPS Entity
+Entity ID: LE-CN-OPS
+Tax authority: China Tax Authority
+Financial risk: 5,841,206.00 USD
+Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Phase: Phase 3: Formal Argument & Hearing
+Case status: Open
+Next action: Reconcile supporting schedules
+
+Peru | Permanent Establishment | TAX-DIS-00041
+Legal entity: Global Agri-Food Peru OPS Entity
+Entity ID: LE-PE-OPS
+Tax authority: Peru Tax Authority
+Financial risk: 5,834,761.00 USD
+Stage: Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+Phase: Phase 5: Resolution & Settlement
+Case status: Open
+Next action: Reconcile supporting schedules
+
+Mexico | Corporate Income Tax | TAX-DIS-00085
+Legal entity: Global Agri-Food Mexico OPS Entity
+Entity ID: LE-MX-OPS
+Tax authority: Mexico Tax Authority
+Financial risk: 5,703,285.00 USD
+Stage: Stage 1: Administrative (Audit/Tax Authority)
+Phase: Phase 7: Appeal Evaluation
+Case status: Open
+Next action: Submit technical response
+
+Chile | Customs & Duties | TAX-DIS-00040
+Legal entity: Global Agri-Food Chile OPS Entity
+Entity ID: LE-CL-OPS
+Tax authority: Chile Tax Authority
+Financial risk: 5,696,840.00 USD
+Stage: Stage 1: Administrative (Audit/Tax Authority)
+Phase: Phase 2: Information Gathering & Defense Preparation
+Case status: Open
+Next action: Submit technical response
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:27] Aks Zuymaw: Show all five audit stages and their descriptions.
+Also show all seven audit phases.
+[01-11-2026 14:27] Tax360Bot: TAX AUDIT & LITIGATION STAGES
+1. Stage 1: Administrative (Audit/Tax Authority)
+   Description: Not separately recorded in the supplied reference data.
+2. Stage 2: Administrative Appeal (Internal Review Board)
+   Description: Not separately recorded in the supplied reference data.
+3. Stage 3: Lower Judicial (First-Tier Specialized Court)
+   Description: Not separately recorded in the supplied reference data.
+4. Stage 4: Appellate Judicial (High Court / Regional Court of Appeals)
+   Description: Not separately recorded in the supplied reference data.
+5. Stage 5: Supreme Judicial (Highest Court / Constitutional Court)
+   Description: Not separately recorded in the supplied reference data.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:28] Aks Zuymaw: Show all seven audit phases in sequence, including their exact names.
+[01-11-2026 14:28] Tax360Bot: This request is within the Tax365 registry domain, but its report pattern is not yet supported. No result has been inferred. Please use /help for supported reports or ask an administrator to add this report.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:32] Aks Zuymaw: THANKS FOR YOUR VERSION 4 RESPONSE!!
+[01-11-2026 14:32] Tax360Bot: This question requires the AnythingLLM conversational layer, which is not enabled yet. Please configure the AnythingLLM API key and workspace in .env.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:33] Aks Zuymaw: Show all seven audit phases in sequence, including their exact names.
+[01-11-2026 14:33] Tax360Bot: This request is within the Tax365 registry domain, but its report pattern is not yet supported. No result has been inferred. Please use /help for supported reports or ask an administrator to add this report.
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.
+[01-11-2026 14:34] Aks Zuymaw: Show all seven audit phases in sequence, including their exact names.
+[01-11-2026 14:34] Tax360Bot: TAX AUDIT LIFECYCLE PHASES
+1. Phase 1: Initiation & Notice
+2. Phase 2: Information Gathering & Defense Preparation
+3. Phase 3: Formal Argument & Hearing
+4. Phase 4: Awaiting Decision
+5. Phase 5: Resolution & Settlement
+6. Phase 6: Post-Resolution & Enforcement
+7. Phase 7: Appeal Evaluation
+
+DEMO ENVIRONMENT — This instance uses illustrative synthetic data. It does not represent actual client tax records.

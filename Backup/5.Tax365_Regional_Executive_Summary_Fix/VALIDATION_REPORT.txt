@@ -1,0 +1,13 @@
+PYTHON COMPILE: PASS
+REGIONAL EXECUTIVE ROUTING: PASS for the exact user wording
+AUDIT/DISPUTE REGIONAL TOTALS: 120 cases; USD 359,506,460
+COMPLIANCE REGIONAL TOTALS: 180 filing records; late-filing penalties grouped by local currency (no invalid cross-currency sum)
+ACTIVE LEGAL ENTITIES: 120 of 120; latest source verification date 2026-10-15
+REGION MAPPING: all six regions in 06_region_reference.csv
+REGRESSION — SEVEN AUDIT PHASES: PASS
+REGRESSION — FIVE AUDIT STAGES: PASS
+REGRESSION — OVERDUE FILINGS: PASS (60 of 60)
+REGRESSION — INDIA AUDIT ROUTING: PASS (2 cases)
+REGRESSION — HIGH EXPOSURE: PASS (103 matches; top 10 disclosed)
+REGRESSION — EXISTING REGIONAL COMPLIANCE SUMMARY: PASS
+NOTE: Module-level validation against supplied synthetic CSVs; live Telegram confirmation remains required.

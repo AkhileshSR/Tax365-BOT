@@ -1,0 +1,42 @@
+TAX365 REGIONAL EXECUTIVE SNAPSHOT — 01 November 2026
+
+1. TAX AUDITS & DISPUTES — CASE COUNT AND RECORDED USD EXPOSURE
+Europe, Middle East, and Africa: 44 cases | USD 123,363,746
+North America: 6 cases | USD 27,166,404
+North Asia: 12 cases | USD 49,380,542
+North Latin America: 12 cases | USD 34,510,854
+South Latin America: 16 cases | USD 55,261,624
+South & Southeast Asia: 30 cases | USD 69,823,290
+Global: 120 cases | USD 359,506,460
+
+2. TAX COMPLIANCE — FILING COUNT AND LATE-FILING PENALTY EXPOSURE
+Europe, Middle East, and Africa: 66 filings | Penalties: AED 3,750; CHF 2,625; DKK 3,000; EGP 3,625; EUR 23,875; GBP 1,625; KES 3,375; NGN 3,500; NOK 2,875; PLN 2,500; SAR 3,875; SEK 2,750; TRY 4,000; ZAR 3,250
+North America: 9 filings | Penalties: CAD 4,500; MXN 4,625; USD 4,375
+North Asia: 18 filings | Penalties: CNY 4,750; HKD 5,250; JPY 4,875; KRW 5,000; MNT 5,375; TWD 5,125
+North Latin America: 18 filings | Penalties: COP 5,875; CRC 5,625; DOP 6,125; GTQ 5,500; PAB 5,750; VES 6,000
+South Latin America: 24 filings | Penalties: ARS 6,375; BRL 6,250; CLP 6,500; INR 7,125; PEN 6,625; PYG 6,875; USD 7,000; UYU 6,750
+South & Southeast Asia: 45 filings | Penalties: AUD 7,375; BDT 8,375; IDR 8,000; KHR 8,625; LAK 8,875; LKR 8,500; MMK 8,750; MYR 7,875; NZD 7,500; PHP 8,125; PKR 8,250; SGD 7,250; THB 7,625; USD 9,000; VND 7,750
+Global: 180 filings
+
+3. ACTIVE LEGAL ENTITIES — CURRENT REGISTRY STATUS
+Europe, Middle East, and Africa: 44 active of 44
+North America: 6 active of 6
+North Asia: 12 active of 12
+North Latin America: 12 active of 12
+South Latin America: 16 active of 16
+South & Southeast Asia: 30 active of 30
+Global: 120 active of 120 registered entities
+Latest entity verification date in source: 2026-10-15
+
+BASIS & LIMITATIONS
+Audit exposure uses financial_risk_amount_usd and includes all case statuses.
+Compliance exposure is late_filing_penalty_local, shown by currency; local currencies are not consolidated.
+Active counts reflect entity_status in the registry; the source has no status-effective date.
+DEMO ENVIRONMENT — Illustrative synthetic data; not actual client tax records.
+PASS: regional executive report routing and source totals validated.
+PASS: existing seven-phase routing preserved.
+PASS: existing regional-compliance report routing preserved.
+PASS: all 60 overdue filings returned.
+PASS: India audit routing returns two cases.
+PASS: high-exposure count and display disclosure preserved.
+PASS: audit-stage reference routing preserved.

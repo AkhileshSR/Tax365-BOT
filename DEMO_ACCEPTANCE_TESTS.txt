@@ -1,0 +1,44 @@
+TAX365 PROFESSIONAL DEMO — ACCEPTANCE TESTS
+Send each question separately to @TaxmindsBotDev_bot.
+
+1. Give me a global tax compliance summary showing total filings, Filed & Approved, Pending Local Review, and Overdue, with percentages.
+Expected: GLOBAL TAX COMPLIANCE SUMMARY; all three status counts; percentages total 100%.
+
+2. List all overdue tax filings globally. Show country, legal entity, tax type, due date, and filing status.
+Expected: OVERDUE TAX FILINGS; entity name and ID; every returned status is Overdue.
+
+3. Give me a tax compliance summary by region. Show total filings, overdue filings, pending reviews, and approved filings.
+Expected: REGIONAL TAX COMPLIANCE SUMMARY; region totals reconcile to 180 source records.
+
+4. Compare tax compliance across India, Brazil, Germany, and the United States. Show filing counts by status.
+Expected: Four separate country sections; each has total, approved, pending and overdue counts.
+
+5. Show all Corporate Income Tax (CIT) filings globally, grouped by country and filing status.
+Expected: GLOBAL CORPORATE INCOME TAX FILINGS; 60 CIT records in this synthetic dataset.
+
+6. Find all legal entities in Brazil. Show entity name, entity ID, registration number, tax identification number, and directors.
+Expected: Two Brazil entity records, with company registration ID and tax/director fields.
+
+7. Give me the global tax audit and litigation summary. Show total cases, total financial exposure, and exposure by region.
+Expected: GLOBAL TAX AUDIT & LITIGATION SUMMARY; case count and normalized USD exposure by region.
+
+8. List the top 10 tax audits and litigations by financial exposure, in descending order. Include country, entity, case reference, disputed amount, audit stage, and phase.
+Expected: Exactly 10 case references, ordered by USD exposure descending.
+
+9. Show all tax audits and litigations in India, including case reference, tax authority, disputed amount, audit stage, current phase, and next action if recorded.
+Expected: India cases with requested authority, entity, amount, stage, phase and next action fields.
+
+10. Identify tax audit and litigation cases with financial exposure above USD 1 million. Rank them by exposure and show country, entity, and current stage.
+Expected: Only cases above USD 1,000,000; highest exposure first; up to 10 records.
+
+11. Explain all five tax audit and litigation stages configured in Tax365. Give the exact stage names and descriptions.
+Expected: Exactly five stage names from audit_stage_reference.csv, in order.
+
+12. List all seven audit lifecycle phases in Tax365 in the correct sequence, with their exact names.
+Expected: Exactly seven phase names from audit_phase_reference.csv, in order.
+
+13. Find the CIT filing proof or receipt for Brazil. Return the exact artifact filename and provide the PDF if it is available.
+Expected: Brazil CIT filing shows no proof and no filename in the compliance register. Bot must not claim to send a PDF. If an artifact index row exists, state its document status; supplied index data is metadata-only and no PDF binaries were provided.
+
+DEMO DATA NOTICE
+All records in this demo dataset are synthetic and illustrative. They are not actual client records, tax filings, tax advice or statutory deadlines.
